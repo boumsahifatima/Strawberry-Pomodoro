@@ -15,7 +15,7 @@
 </div>
 
 ## 🎀 À propos du projet
-Le **Strawberry Pomodoro** est un outil de gestion du temps esthétique. Il utilise la technique Pomodoro (25 minutes de travail, 5 minutes de pause) dans un univers visuel inspiré par le style *cottagecore* et *kawaii*.
+Le **Strawberry Pomodoro** est un outil de gestion du temps esthétique. Il utilise la technique Pomodoro (25 minutes de travail) dans un univers visuel inspiré par le style *cottagecore* et *kawaii*.
 
 ## ✨ Caractéristiques
 - ⏱️ **Timer Fonctionnel :** Cycle de 25 minutes géré par `setInterval`.
