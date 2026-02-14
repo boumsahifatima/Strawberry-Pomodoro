@@ -17,6 +17,8 @@
 ## 🎀 À propos du projet
 Le **Strawberry Pomodoro** est un outil de gestion du temps esthétique. Il utilise la technique Pomodoro (25 minutes de travail) dans un univers visuel inspiré par le style *cottagecore* et *kawaii*.
 
+
+
 ## ✨ Caractéristiques
 - ⏱️ **Timer Fonctionnel :** Cycle de 25 minutes géré par `setInterval`.
 - 🌸 **Design Chou :** Palette de couleurs pink pastel et formes ultra-arrondies.
@@ -27,6 +29,7 @@ Le **Strawberry Pomodoro** est un outil de gestion du temps esthétique. Il util
 
 
 <div align="center">
+  
 Made with ✨ by boumsahifatima
 
 </div>
