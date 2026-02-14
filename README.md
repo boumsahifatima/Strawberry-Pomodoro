@@ -24,14 +24,7 @@ Le **Strawberry Pomodoro** est un outil de gestion du temps esthétique. Il util
   - Alarme douce à la fin du décompte.
 - 📱 **Interface Intuitive :** Boutons Start, Pause et Reset.
 
-## 📂 Structure des fichiers
-text
-├── index.html       
-├── style.css        
-├── script.js       
-└── templets/  
-    ├── clic.mp3
-    └── alarme.mp3
+
 
 <div align="center">
 Made with ✨ by boumsahifatima
