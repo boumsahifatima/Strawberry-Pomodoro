@@ -25,17 +25,15 @@ Le **Strawberry Pomodoro** est un outil de gestion du temps esthétique. Il util
 - 📱 **Interface Intuitive :** Boutons Start, Pause et Reset.
 
 ## 📂 Structure des fichiers
-``text
+text
 ├── index.html       
 ├── style.css        
 ├── script.js       
-└── templets/        
+└── templets/  
     ├── clic.mp3
     └── alarme.mp3
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/boumsahifatima/About-me/main/images/footer-divider.gif" width="50%">
-
 Made with ✨ by boumsahifatima
 
 </div>
